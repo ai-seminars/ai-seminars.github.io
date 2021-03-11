@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Seminars</title>
+    <link>https://ai-seminars.github.io/</link>
+    <description>Recent content on AI Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March 5 2021 - Rizka Purwanto</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210305/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210305/</guid>
+      <description>Detecting Phishing Websites with AI Abstract Phishing is an essential component of various cyber-attacks as it is often used as the key step in advanced persistent threats. Despite the availability of public phishing detection toolbars and studies in phishing detection systems, the number of attacks has been increasing in the past years, due to the continuous change of attack models for bypassing detection. Thus, it remains a challenge to develop a robust phishing detection system despite the dynamic nature of phishing attacks.</description>
+    </item>
+    
+    <item>
+      <title>December 4th 2020, Andrew Haigh</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/201204/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/201204/</guid>
+      <description>Title: N_batch=1: Going from proof-of-concept to realtime inference Abstract: Publication provides a certain set of priorities and motivation when it comes to the research and development of machine learning models which may differ from some later use on real-world data or a specific computing environment. Practical realities will influence choices around model size, speed, and architecture given constraints on deadlines, training time, and available benchmarks and computing resources. Using the engineering of the systems in support of a multidisciplinary research facility focused on the the estimation of human behavior, affect, and intent as a motivating example, in this talk I discuss techniques for the design, integration, and optimisation of suites of ML models for realtime inference in a production software system.</description>
+    </item>
+    
+    <item>
+      <title>November 6th 2020, Lyria Bennett Moses, Professor Law, UNSW</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/201106/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/201106/</guid>
+      <description>Predictive Policing and the Role of Ethics and Standards Abstract Predictive policing — the use of data, combined with predictive models to estimate the risks of crime in specific locations and times — has raised hopes as well as strengthened the rhetoric of using technology for crime control. The apparently enthusiastic uptake of predictive policing software in the US and elsewhere, together with the hype of “Big Data”, has created a new orthodoxy that technology can make policing “smarter” and “information-based” rather than subject to human bias and occupational habits.</description>
+    </item>
+    
+    <item>
+      <title>October 23th 2020, Aaron Quigley, Professor CSE, UNSW</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/201023/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/201023/</guid>
+      <description>Machine Learning methods in Intelligent Interfaces: Challenges and Opportunities Abstract Opisthenar (UIST 2019) introduced a vision-based technique to recognize static hand poses and dynamic finger tapping gestures without instrumenting the fingers. This relies on a camera on the wrist, with a view of the back of the hand. The oblique angle and placement of the camera make typical vision-based techniques difficult to adopt. Our alternative approach observes small movements and changes in the shape, tendons, skin and bones on the area.</description>
+    </item>
+    
+    <item>
+      <title>October 9th, 2020, Haris Aziz, Associate Professor CSE, UNSW</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/201009/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/201009/</guid>
+      <description>The Vigilant Eating Rule: A General Approach For Probabilistic Economic Design With Constraints Abstract We consider the problem of probabilistic allocation of objects under ordinal preferences. Our main contribution is an allocation mechanism, called the vigilant eating rule (VER), that applies to arbitrary distributional constraints. It is constrained ordinally efficient, can be computed efficiently for a large class of constraints, and treats agents equally if they have the same preferences and are subject to the same constraints.</description>
+    </item>
+    
+    <item>
+      <title>September 25th, 2020, John Lock</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200925/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200925/</guid>
+      <description>AI for Systems Microscopy Abstract This presentation will first introduce an exemplar Systems Microscopy (imaging-based single cell) analysis pipeline, applied to the study of cancer cells and to the understanding of links between cellular features and disease states / outcomes. Next, I will introduce a custom deep learning analysis platform based around a 2-stage variational autoencoder (developed in collaboration with Prof Erik Meijering), and describe how this tool is being extended and made ‘explainable’ by VR-based data visualisation using the novel ‘BioDive’ software developed in collaboration with Associate Professor Tomasz Bednarz, UNSW EPICentre.</description>
+    </item>
+    
+    <item>
+      <title>September 11th, 2020, Angela Kim</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200911/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200911/</guid>
+      <description>How to embed ethical, explainable, diverse and inclusive AI in AI ecosystem Abstract As Computers behave more like humans, how will they impact real people?
+Skilling up for AI -powered future requires more than science, technology, engineering, and math. As computers behave more like humans, the social sciences and humanities will become more important.
+The development and deployment of AI must be guided by the creation of an ethical framework. There are six core principles that should guide the work around AI.</description>
+    </item>
+    
+    <item>
+      <title>August 21st, 2020, Mark Whitty (Senior Lecturer @MME)</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200821/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200821/</guid>
+      <description>Embedding metadata in images at time of capture using physical Quick Response (QR) codes Abstract Maintaining metadata records for scientific imaging is challenging where the link between the metadata and the image can be broken. We propose a method for using QR codes in images to embed the metadata, so that it can be extracted on demand. By using a novel pipeline for generating QR codes, displaying them in images, reading the QR codes in the images and extracting the metadata for later action such as renaming the image file, a streamlined process for metadata management is introduced.</description>
+    </item>
+    
+    <item>
+      <title>August 7th, 2020, Toby Walsh (Laureate Fellow and Scientia Professor)</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200807/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200807/</guid>
+      <description>Fair Division in the Wild: from food banks to organ banks Abstract Fair division is an important problem facing society today as increasing economical, environmental, and other pressures require us to try to do more with limited resources. In this talk, I survey some recent work in the ADT group at CSE studying fair division problems derived from real world applications. In each case, this threw up some interesting theoretical problems not previously studied in the literature.</description>
+    </item>
+    
+    <item>
+      <title>July 24th, 2020 Alan Blair (Senior Lecturer @CSE)</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200724/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200724/</guid>
+      <description>Autoencoders, Bidirectional GANs and Deep Principal Component Analysis using a Plum Pudding Loss Function Abstract There are many situations in deep learning where we wish to force a set of vectors or activations to approximate either a hyperspherical or multivariate Gaussian distribution. For example, deep autoencoders aim to map a set of real images or other data to latent variables, enabling the reconstruction of the original images as well as generation of similar images from random latent variables.</description>
+    </item>
+    
+    <item>
+      <title>June 26th, 2020 Pawel Swietojanski (Scientia Fellow @CSE)</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200626/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200626/</guid>
+      <description>Static Visual Spatial Priors for Speech Processing Abstract Human perception relies on multi-modal processing integrating many sensory inputs and auxiliary knowledge sources. In the particular case of hearing, research has shown that under high acoustic uncertainty (noisy / reverberant acoustic environments, unfamiliar speakers, simultaneous speech, etc.), our brains can efficiently leverage auxiliary sources such as vision and/or higher level conceptual understanding / common sense reasoning to better separate target speech sources or to fill inaudible gaps.</description>
+    </item>
+    
+    <item>
+      <title>June 12th, 2020 Joshua Goncalves (HDR @CSE)</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200612/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200612/</guid>
+      <description>A Hierarchical Approach to Accurate yet Explainable Artificial Intelligence Abstract Recent advancements in artificial intelligence have enabled plausible and effective solutions to a variety of applications including self-driving cars and real-time medical diagnosis. Many different algorithms and techniques have been utilised to achieve such results, driven by both commercial and academic pressure. The most prominent amongst them are arguably those classified as deep learning which use a hierarchical structure that progressively abstracts constituent elements until a more usable form is reached.</description>
+    </item>
+    
+    <item>
+      <title>March 6th, 2020 Marian-Andrei Rizoiu (UTS)</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/200306/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/200306/</guid>
+      <description>Social media-predicted personality traits and values can help match people to their ideal jobs Abstract Scientists are much more open but less agreeable than people in other professions. On the plus side, they’re more likely to be intellectually curious, idealistic, and passionate than non-scientists. But as a group, they also tend to be more rigid, cynical, and tactless. This psychological assessment owes nothing to surveys or personality testing; it pays no heed to the zodiac.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://ai-seminars.github.io/schedule/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://ai-seminars.github.io/schedule/</guid>
+      <description>2021    Date Location Speaker Title     05.03.2021 MS Teams Rizka Purwanto Detecting Phishing Websites with AI   19.03.2021 MS Teams Arindam Pal    26.03.2021 MS Teams Cormac Purcell    02.04.2021 MS Teams [Telstra]    16.04.2021 MS Teams Salil Kanhere    30.04.2021 MS Teams     14.05.2021 MS Teams Lina Yao    28.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ai-seminars.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/about/</guid>
+      <description>General Information What: The AI seminar is a fortnightly seminar series on topics related to Artificial Intelligence (Intelligent and Autonomous Systems).
+Why: The motivation for creating this seminar is that CSE UNSW has a critical mass of people who are working on subtly related topics in AI, Multi-agent systems, Robotics, Machine Learning, KR, Human–Computer Interaction, Computer Vision and Signal Processing. Having a fortnightly point of interaction will provide exposure to interesting work in this area and increase awareness of our shared interests and other commonalities like the use of similar computational tools.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ai-seminars.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/contact/</guid>
+      <description>Wafa Johal, CSE UNSW Sydney</description>
+    </item>
+    
+    <item>
+      <title>Up Comping</title>
+      <link>https://ai-seminars.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/home/</guid>
+      <description>March 19 2021 - Arindam Pal Title Abstract Bio </description>
+    </item>
+    
+  </channel>
+</rss>
