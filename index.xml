@@ -132,7 +132,7 @@ The development and deployment of AI must be guided by the creation of an ethica
       <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
       
       <guid>https://ai-seminars.github.io/schedule/</guid>
-      <description>2021    Date Location Speaker Title     05.03.2021 MS Teams Rizka Purwanto Detecting Phishing Websites with AI   19.03.2021 MS Teams Arindam Pal    26.03.2021 MS Teams Cormac Purcell    02.04.2021 MS Teams [Telstra]    16.04.2021 MS Teams Salil Kanhere    30.04.2021 MS Teams     14.05.2021 MS Teams Lina Yao    28.</description>
+      <description>2021    Date Location Speaker Title     05.03.2021 MS Teams Rizka Purwanto Detecting Phishing Websites with AI   19.03.2021 MS Teams Arindam Pal AI for Legal Data Analytics: From Text to Citation Networks and Beyond   26.03.2021 MS Teams Cormac Purcell    02.04.2021 MS Teams [Telstra]    16.04.2021 MS Teams Salil Kanhere    30.04.2021 MS Teams     14.</description>
     </item>
     
     <item>
@@ -160,7 +160,8 @@ Why: The motivation for creating this seminar is that CSE UNSW has a critical ma
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ai-seminars.github.io/home/</guid>
-      <description>March 19 2021, 2PM - Arindam Pal AI for Legal Data Analytics: From Text to Citation Networks and Beyond Abstract Legal Data Analytics (LDA) is the branch of data analytics, where techniques from artificial intelligence, machine learning, and information retrieval are applied to solve problems involving legal documents, such as legal court cases and patent applications. In this talk, we will describe the landscape of legal data analytics, and state some important problems in this area, such as catchphrase extraction, document similarity, prior-case retrieval, and text summarization.</description>
+      <description>March 19 2021, 2PM - Arindam Pal AI for Legal Data Analytics: From Text to Citation Networks and Beyond Join Teams Meeting
+Abstract Legal Data Analytics (LDA) is the branch of data analytics, where techniques from artificial intelligence, machine learning, and information retrieval are applied to solve problems involving legal documents, such as legal court cases and patent applications. In this talk, we will describe the landscape of legal data analytics, and state some important problems in this area, such as catchphrase extraction, document similarity, prior-case retrieval, and text summarization.</description>
     </item>
     
   </channel>
