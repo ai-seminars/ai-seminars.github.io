@@ -6,7 +6,16 @@
     <description>Recent content in Previous Talks on AI Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arindam Pal,Senior Research Scientist at Data61</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210319/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210319/</guid>
+      <description>AI for Legal Data Analytics: From Text to Citation Networks and Beyond Abstract Legal Data Analytics (LDA) is the branch of data analytics, where techniques from artificial intelligence, machine learning, and information retrieval are applied to solve problems involving legal documents, such as legal court cases and patent applications. In this talk, we will describe the landscape of legal data analytics, and state some important problems in this area, such as catchphrase extraction, document similarity, prior-case retrieval, and text summarization.</description>
+    </item>
+    
     <item>
       <title>Rizka Purwanto</title>
       <link>https://ai-seminars.github.io/talks/talks_md/210305/</link>
