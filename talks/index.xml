@@ -6,7 +6,16 @@
     <description>Recent content in Previous Talks on AI Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cormac Purcell, Program Director Trillium Technologies</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210326/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210326/</guid>
+      <description>Frontier Development Lab: engaging industry and accelerating interdisciplinary research for human good. Abstract Frontier Development Lab (FDL) is a year-long accelerated research program centred on an 8-week intensive research sprint. The program brings together interdisciplinary teams to solve carefully chosen challenges by applying artificial intelligence to remote sensing data. FDL has been running since 2015 in partnership with leading public and private organisations that include: NASA, ESA, The SETI Institute, Oxford University, Google, NVIDIA and Lockheed Martin.</description>
+    </item>
+    
     <item>
       <title>Arindam Pal,Senior Research Scientist at Data61</title>
       <link>https://ai-seminars.github.io/talks/talks_md/210319/</link>
