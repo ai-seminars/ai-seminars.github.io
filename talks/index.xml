@@ -6,7 +6,16 @@
     <description>Recent content in Previous Talks on AI Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salil Kanhere, University of New South Wales</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210416/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210416/</guid>
+      <description>Who Are You? New Approaches for Authentication in Smart Spaces Abstract Smart environments are increasingly offering a range of personalised services which require knowing the identity of the person currently using the space. Widely used authentication methods including fingerprint and face recognition have been shown to be vulnerable. In the first part of this talk, we present a human identification mechanism called Vein‐ID, that uses the vein pattern of an individual&amp;rsquo;s hand dorsum recorded using an off‐the‐shelf depth camera.</description>
+    </item>
+    
     <item>
       <title>Cormac Purcell, Program Director Trillium Technologies</title>
       <link>https://ai-seminars.github.io/talks/talks_md/210326/</link>

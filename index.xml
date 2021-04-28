@@ -6,7 +6,16 @@
     <description>Recent content on AI Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salil Kanhere, University of New South Wales</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210416/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210416/</guid>
+      <description>Who Are You? New Approaches for Authentication in Smart Spaces Abstract Smart environments are increasingly offering a range of personalised services which require knowing the identity of the person currently using the space. Widely used authentication methods including fingerprint and face recognition have been shown to be vulnerable. In the first part of this talk, we present a human identification mechanism called Vein‐ID, that uses the vein pattern of an individual&amp;rsquo;s hand dorsum recorded using an off‐the‐shelf depth camera.</description>
+    </item>
+    
     <item>
       <title>Cormac Purcell, Program Director Trillium Technologies</title>
       <link>https://ai-seminars.github.io/talks/talks_md/210326/</link>
@@ -178,8 +187,8 @@ Why: The motivation for creating this seminar is that UNSW CSE has a critical ma
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ai-seminars.github.io/home/</guid>
-      <description>April 16 2021, 2pm - Salil Kanhere, UNSW Who Are You? New Approaches for Authentication in Smart Spaces Teams meeting
-Abstract Smart environments are increasingly offering a range of personalised services which require knowing the identity of the person currently using the space. Widely used authentication methods including fingerprint and face recognition have been shown to be vulnerable. In the first part of this talk, we present a human identification mechanism called Vein‐ID, that uses the vein pattern of an individual&amp;rsquo;s hand dorsum recorded using an off‐the‐shelf depth camera.</description>
+      <description>April 30 2021, 2PM - Fei Tan, Telstra Artificial Intelligence in Telco industry: What, how and why? Join Teams Meeting
+Abstract Over the past decade, the landmark of telco industry has changed from providing basic phone and internet services to seamless connectivity through technology and services like 5G and Internet of Things. As a result, the use of Artificial Intelligence in the industry has been amplified, especially heightened in the last year.</description>
     </item>
     
   </channel>
