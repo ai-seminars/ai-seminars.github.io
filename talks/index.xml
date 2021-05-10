@@ -6,7 +6,16 @@
     <description>Recent content in Previous Talks on AI Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fei Tan, Telstra</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210402/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210402/</guid>
+      <description>Artificial Intelligence in Telco industry: What, how and why? Abstract Over the past decade, the landmark of telco industry has changed from providing basic phone and internet services to seamless connectivity through technology and services like 5G and Internet of Things. As a result, the use of Artificial Intelligence in the industry has been amplified, especially heightened in the last year. This talk will cover how Artificial Intelligence is empowering and revolutionising the way Telcos operate and provide services to customers, the implementation challenges we face and how to best use Artificial Intelligence to drive business outcomes.</description>
+    </item>
+    
     <item>
       <title>Salil Kanhere, University of New South Wales</title>
       <link>https://ai-seminars.github.io/talks/talks_md/210416/</link>
