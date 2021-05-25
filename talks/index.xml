@@ -6,7 +6,16 @@
     <description>Recent content in Previous Talks on AI Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lina Yao, University of New South Wales</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210514/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210514/</guid>
+      <description>Data-Efficient Visual Analysis with Limited Supervision Abstract It is difficult to collect and generate sufficient annotated data in the real world due to limited resources, such as costly human labours for annotation, security and privacy concerns. Therefore, it is urgent to develop methods to complete the visual analysis mission with only limited supervision. In this talk, I will share my team’s recent research progress about data-efficient visual analysis on various tasks in terms of visual classification, action detection, and event detection.</description>
+    </item>
+    
     <item>
       <title>Fei Tan, Telstra</title>
       <link>https://ai-seminars.github.io/talks/talks_md/210402/</link>
