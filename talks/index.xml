@@ -6,7 +6,16 @@
     <description>Recent content in Previous Talks on AI Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-seminars.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daniel Al Mouiee, Ingham Institute Medical Physics</title>
+      <link>https://ai-seminars.github.io/talks/talks_md/210528/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-seminars.github.io/talks/talks_md/210528/</guid>
+      <description>Classifying Retinal Degeneration in Histological Sections using Deep Learning Abstract: Artificial Intelligence (AI) techniques are increasingly being used to classify retinal diseases using various imaging techniques. Such applications include the analysis of clinical retinal images like the grading of retinal fundus photography for diabetic retinopathy, assessing retinal Optical Coherence Tomography (OCT) images for Age-related Macular Degeneration (AMD) prognosis. One key area that lacks AI research is retinal histological data, which can illustrate important neuronal re-circuiting that may occur during the progression of retinal diseases.</description>
+    </item>
+    
     <item>
       <title>Lina Yao, University of New South Wales</title>
       <link>https://ai-seminars.github.io/talks/talks_md/210514/</link>
